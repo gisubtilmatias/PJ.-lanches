@@ -1,8 +1,58 @@
 .título{
-    font-family: Keania One; 
+    font-family: 'Keania One', cursive;
     font-weight: 900;
-    font-size: 88px;
+    font-size: 80px;
     display: flex;
     justify-content: center;
     padding: 30px;
  }
+
+ .imagem1{
+    width: 550px;
+    height: 500px;
+    padding: 50px;
+    margin:auto;
+    
+    display: block;
+ }
+
+.texto{
+    font-family: 'Kaisei Tokumin', serif;
+    font-weight: 500;
+    font-size: 50px;
+    margin-left: 100px;
+}  
+
+.subtítulo{
+    font-family: 'Happy Monkey', cursive;
+    font-weight: 600;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.imagem3{
+    width: 550px;
+    height: 500px;
+    padding: 50px;
+    margin: auto;
+    display: block;
+ }
+
+ .texto{
+    font-family: 'Kaisei Tokumin', serif;
+    font-weight: 400;
+    font-size: 40px;
+ }
+
+ .imagem3{
+    width: 550px;
+    height: 500px;
+    padding: 50px;
+    margin: auto;
+    display: block;
+ }
+
+ 
+    
