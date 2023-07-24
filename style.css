@@ -83,9 +83,10 @@
   width: 1900px;
   height: 180px;
   display: grid;
-  grid-template-columns: 230px 34px 1900px;
-  padding: 20px;
-  font-size: 38px;
+  grid-template-columns: 230px 1250px 600px;
+  padding: 25px;
+  font-size: 40px;
+  text-align: center;
 }
  
 .icone8{
@@ -104,18 +105,16 @@
  
 }
 
-
 .informações{
   color: #B7730E;
   font-family: 'Inter';
   font-weight: 300;
-  font-size: 30px;
-  display: grid;
+  font-size: 35px;
   row-gap: 20px;
-  padding-left: 60px;
-  padding-top: 2px;
+  padding-left: 0px;
+  padding-top: 50px;
   width: 1127px;
-  margin-left: 30px;
+  margin-right: 100px;
 }
 
 
