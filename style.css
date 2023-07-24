@@ -8,113 +8,120 @@
  }
 
  .imagem1{
-    width: 550px;
-    height: 500px;
-    padding: 50px;
-    margin:auto;
-    
-    display: block;
- }
+   width: 550px;
+   height: 500px;
+   padding: 2px;
+   margin:auto;
+   
+   display: block;
+}
 
 .texto{
-    font-family: 'Kaisei Tokumin', serif;
-    font-weight: 500;
-    font-size: 50px;
-    margin-left: 100px;
+   font-family: 'Kaisei Tokumin', serif;
+   font-weight: 500;
+   font-size: 50px;
+   margin-left: 100px;
 }  
 
 .subtítulo{
-    font-family: 'Happy Monkey', cursive;
-    font-weight: 600;
-    font-size: 50px;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
+   font-family: 'Happy Monkey', cursive;
+   font-weight: 600;
+   font-size: 50px;
+   display: flex;
+   justify-content: center;
+   padding: 20px;
 }
 
 .imagem3{
-    width: 550px;
-    height: 500px;
-    padding: 50px;
-    margin: auto;
-    display: block;
- }
-
- .texto{
-    font-family: 'Kaisei Tokumin', serif;
-    font-weight: 400;
-    font-size: 40px;
- }
-
- .imagem4{
-    width: 550px;
-    height: 500px;
-    padding: 50px;
-    margin: auto;
-    display: block;
- }
-
- .imagem7{
    width: 550px;
    height: 500px;
-   padding: 50px;
+   padding: 2px;
    margin: auto;
    display: block;
+}
+
+.texto{
+   font-family: 'Kaisei Tokumin', serif;
+   font-weight: 400;
+   font-size: 40px;
+}
+
+.imagem4{
+   width: 550px;
+   height: 500px;
+   padding: 2px;
+   margin: auto;
+   display: block;
+}
+
+.imagem7{
+  width: 550px;
+  height: 500px;
+  padding: 2px;
+  margin: auto;
+  display: block;
 }
 
 .imagem6{
-   width: 550px;
-   height: 500px;
-   padding: 50px;
-   margin: auto;
-   display: block;
+  width: 550px;
+  height: 500px;
+  padding: 2px;
+  margin: auto;
+  display: block;
 }
 
 .imagem5{
-   width: 550px;
-   height: 500px;
-   padding: 50px;
-   margin: auto;
-   display: block;
+  width: 550px;
+  height: 500px;
+  padding: 2px;
+  margin: auto;
+  display: block;
 }
 
 .rodapé{
-   background-color: #D9D9D9;
-   width: 1900px;
-   height: 180px;
-   display: grid;
-   grid-template-columns: 230px 34px 1900px;
-   padding: 20px;
+  background-color: #D9D9D9;
+  width: 1900px;
+  height: 180px;
+  display: grid;
+  grid-template-columns: 230px 34px 1900px;
+  padding: 20px;
+  font-size: 38px;
 }
-  
+ 
 .icone8{
-   display: grid;
-   row-gap: 12px;
-   padding-left: 50px;
-   border-top: 2px;
+  display: grid;
+  row-gap: 12px;
+  padding-left: 50px;
+  border-top: 2px;
+  margin-right: 30px;
 }
 
 .icone9{
-   display: grid;
-   row-gap: 12px;
-   padding-left: 50px;
-   border-top: 2px;
+  display: grid;
+  row-gap: 12px;
+  padding-left: 50px;
+  border-top: 2px;
+ 
 }
 
 
 .informações{
-   color: #B7730E;
-   font-family: 'Inter';
-   font-weight: 300;
-   font-size: 28px;
-   display: grid;
-   row-gap: 20px;
-   padding-left: 60px;
-   padding-top: 2px;
-   width: 1127px;
+  color: #B7730E;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 30px;
+  display: grid;
+  row-gap: 20px;
+  padding-left: 60px;
+  padding-top: 2px;
+  width: 1127px;
+  margin-left: 30px;
 }
 
 
+
+
+   
 
  
     
